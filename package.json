@@ -1,0 +1,17 @@
+{
+  "name": "print-layout-export",
+  "version": "1.0.0",
+  "description": "Obsidian plugin: print-ready notes with controlled image layout.",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "tsc --noEmit --skipLibCheck && node esbuild.config.mjs production"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "esbuild": "^0.23.0",
+    "obsidian": "latest",
+    "typescript": "^5.4.0"
+  }
+}

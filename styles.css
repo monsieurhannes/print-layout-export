@@ -1,0 +1,6 @@
+/* Small helper for the settings tab. */
+.print-layout-export-warning {
+  color: var(--text-muted);
+  font-size: var(--font-ui-small);
+  margin: 0.5em 0 1em;
+}

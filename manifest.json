@@ -1,0 +1,10 @@
+{
+  "id": "print-layout-export",
+  "name": "Print Layout Export",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Print or export the active note with controlled image sizes, page size, page numbers and clickable links.",
+  "author": "Johannes Domeier",
+  "authorUrl": "https://github.com/monsieurhannes",
+  "isDesktopOnly": true
+}
